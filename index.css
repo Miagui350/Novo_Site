@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(120deg,red 3%, black 97%);
+}
+
+.constent{
+    height: 520px;
+    width: 935px ;
+    border-radius: 20px;
+}
